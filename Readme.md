@@ -61,8 +61,6 @@ EMBED_COLOR=#000001
 # Dev
 OWNER_ID=REPLACE_HERE
 
-# Database
-MONGO_URI=
 
 # Webhook Logs Link
 error=
@@ -104,6 +102,7 @@ npm run start or bun run start
 - Remove (/premium remove [mention]) // (OWNER ONLY)
 
 </details>
+
 
 
 
