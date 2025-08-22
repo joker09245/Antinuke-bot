@@ -17,7 +17,6 @@
 
 ## Features
 
-- [x] MongoDB Connection
 - [x] Anti Role Create/Delete/Update
 - [x] Anti Bot Add
 - [x] Anti Channel Create/Delete/Update
@@ -36,8 +35,7 @@
 ### Requirements
 
 - [x] Node.js v16+ [Download Node.js](https://nodejs.org/en/download/)  
-- [x] Discord Bot Token [Get Bot Token](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)  
-- [x] MongoDB URI [Get MongoDB URI](https://www.mongodb.com/docs/manual/reference/connection-string/)  
+- [x] Discord Bot Token [Get Bot Token](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)   
 
 </details>
 
@@ -107,8 +105,6 @@ npm run start or bun run start
 
 </details>
 
-## Credits
 
-Created By [Ayush](https://github.com/grdAyush)
 
 
